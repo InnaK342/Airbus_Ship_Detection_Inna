@@ -30,6 +30,8 @@ Load an image by clicking the "Load Image" button.
 
 Perform image segmentation by clicking the "Segment Image" button.
 
+![result](https://github.com/InnaK342/Airbus_Ship_Detection_Inna/ваш_репозиторій/main/result.jpg)
+
 ## Dependencies
 1. Pillow: Python Imaging Library (Fork)
 2. NumPy: Fundamental package for scientific computing with Python
