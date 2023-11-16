@@ -32,8 +32,14 @@ Perform image segmentation by clicking the "Segment Image" button.
 
 ## Dependencies
 Pillow: Python Imaging Library (Fork)
+
+
 NumPy: Fundamental package for scientific computing with Python
+
+
 OpenCV: Open Source Computer Vision Library
+
+
 TensorFlow: Open-source machine learning framework
 
 ## Notes
