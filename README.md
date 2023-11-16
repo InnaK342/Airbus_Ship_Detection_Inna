@@ -31,16 +31,10 @@ Load an image by clicking the "Load Image" button.
 Perform image segmentation by clicking the "Segment Image" button.
 
 ## Dependencies
-Pillow: Python Imaging Library (Fork)
-
-
-NumPy: Fundamental package for scientific computing with Python
-
-
-OpenCV: Open Source Computer Vision Library
-
-
-TensorFlow: Open-source machine learning framework
+1. Pillow: Python Imaging Library (Fork)
+2. NumPy: Fundamental package for scientific computing with Python
+3. OpenCV: Open Source Computer Vision Library
+4. TensorFlow: Open-source machine learning framework
 
 ## Notes
 The application uses a pre-trained model (final_model.h5) for image segmentation. Make sure the model file is available in the same directory as the script.
